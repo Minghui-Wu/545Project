@@ -1,0 +1,8 @@
+data
+*api_keys*
+output
+*.txt
+*.json
+*.log
+*.npy
+*.csv
