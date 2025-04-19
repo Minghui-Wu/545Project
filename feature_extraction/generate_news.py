@@ -22,9 +22,17 @@ df = pd.read_csv('data/stock_list.csv')
 companies = {row['Name']: row['SecuritiesCode'] for _, row in df.iterrows()}
 # only keep the first 2 companies for testing
 companies = {k: v for i, (k, v) in enumerate(companies.items()) if i < 20}
+companies = {
+    'TOYOTA MOTOR CORPORATION': 1100,
+    'SONY GROUP CORPORATION': 1101,
+    'KEYENCE CORPORATION': 1102,
+    'Recruit Holdings Co.,Ltd.': 1103,
+    'NIPPON TELEGRAPH AND TELEPHONE CORPORATION': 1104
+}
 
-start = "2021-12-01"
-end = "2021-12-30"
+print(f"company name:{companies}")
+start = "2020-12-01"
+end = "2020-12-30"
 results = []  # will store dictionaries for each news entry
 
 raw_data = {}
@@ -70,14 +78,14 @@ for company_name, ticker in companies.items():
         query = f"Provide concise financial news headlines with date stamps (YYYY-MM-DD) and brief context for {company_name} from {current.strftime('%Y-%m-%d')} to {month_end.strftime('%Y-%m-%d')}."
 
         messages = [
-            {"role": "system", "content": "You're a financial news analyst providing headlines, news, their URLs and their exact date stamps."},
+            {"role": "system", "content": "You're a financial news analyst providing contents, news, their URLs and their exact date stamps."},
             {"role": "user", "content": query}
         ]
 
         payload = {
             "model": "sonar-pro",
             "messages": messages,
-            "max_tokens": 500
+            "max_tokens": 5000
         }
 
         response = requests.post(API_URL, headers=headers, json=payload)
@@ -95,9 +103,9 @@ for company_name, ticker in companies.items():
 
 # Create a DataFrame from results and save it to CSV
 df_results = pd.DataFrame(results)
-df_results.to_csv("financial_news_2021.csv", index=False)
+df_results.to_csv("financial_news_2020.csv", index=False)
 
-print("Successfully saved to financial_news_2021.csv")
+print("Successfully saved to financial_news_2020.csv")
 # dump raw data to a file
 import json
 with open('raw_data.json', 'w') as f:

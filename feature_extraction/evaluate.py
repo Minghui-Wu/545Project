@@ -6,12 +6,12 @@ from scipy.stats import pearsonr
 # Load the first CSV with embeddings and sentiment scores
 # Assuming it’s saved as 'output_with_sentiment.csv' and embeddings as 'embeddings.npy'
 df1 = pd.read_csv('output_with_sentiment.csv')
-embeddings = np.load('embeddings.npy', allow_pickle=True)
+embeddings = np.load('embeddings_2020.npy', allow_pickle=True)
 df1['embeddings'] = list(embeddings)
 
 # Load the second CSV with Target values
-df2 = pd.read_csv('data/supplemental_files/stock_prices.csv')  # Replace with your file name
-
+# df2 = pd.read_csv('data/supplemental_files/stock_prices.csv')  # Replace with your file name
+df2 = pd.read_csv('data/train_files/stock_prices.csv')
 # 3. Third CSV with SecuritiesCode to company name mapping
 df3 = pd.read_csv('data/stock_list.csv')  # Replace with your file name
 
