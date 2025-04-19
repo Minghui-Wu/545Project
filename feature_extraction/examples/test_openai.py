@@ -4,8 +4,10 @@ import re
 from datetime import datetime, timedelta
 import json
 
+
 API_URL = "https://api.openai.com/v1/chat/completions"
-API_KEY = "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"
+with open('feature_extraction/api_keys.yaml') as f:
+    API_KEY = yaml.safe_load(f)['openai']
 
 headers = {
     "Authorization": f"Bearer {API_KEY}",
