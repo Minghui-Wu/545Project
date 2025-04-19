@@ -7,7 +7,7 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 nltk.download('vader_lexicon')
 # Load the CSV file (replace 'output.csv' with your file path)
 # df = pd.read_csv('/nvme1/Projects/545Project/data/TOYOTA_2020_News.csv')
-df = pd.read_csv('/nvme1/Projects/545Project/data/news_data_2020_standardized.csv')
+df = pd.read_csv('/nvme1/Projects/545Project/data/news_data_2020_v2.csv')
 # df = pd.read_csv('/nvme1/Projects/545Project/data/SONY_2020_News.csv')
 # Generate embeddings
 model = SentenceTransformer('all-MiniLM-L6-v2')
@@ -21,8 +21,11 @@ df['sentiment_score'] = df['contents'].apply(lambda x: sid.polarity_scores(x)['c
 
 # Save results
 np.save('embeddings_2020.npy', embeddings)
-df[['date', 'company name', 'contents', 'sentiment_score']].to_csv('output_with_sentiment.csv', index=False)
+df['company name'] = df['company name'].replace("RECRUIT HOLDINGS CO.,LTD.", "Recruit Holdings Co.")
 
+df[['date', 'company name', 'contents', 'sentiment_score']].to_csv('output_with_sentiment.csv', index=False)
+# when company name is "RECRUIT HOLDINGS CO.,LTD.", the company name is RECRUIT HOLDINGS CO.,LTD.
+print(f"The last 5 row:{df.tail(5)}")
 # Preview
 print(df[['date', 'company name', 'contents', 'sentiment_score']].head())
 print(f"Embeddings saved with shape: {embeddings.shape}")
