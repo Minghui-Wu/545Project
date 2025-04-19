@@ -1,8 +1,2 @@
-data
-*api_keys*
-output
-*.txt
-*.json
-*.log
-*.npy
-*.csv
+# ignore input/jpx-tokyo-stock-exchange-prediction
+input/jpx-tokyo-stock-exchange-prediction/
