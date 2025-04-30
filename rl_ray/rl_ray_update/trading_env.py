@@ -34,7 +34,7 @@ class PortfolioOptimizationEnv_with_feature(Env):
         # Define observation space
         self.observation_space = spaces.Box(
             low=-np.inf, high=np.inf, 
-            shape=(self.lookback* self.num_assets*1,), dtype=np.float64
+            shape=(self.lookback* self.num_assets*1*5,), dtype=np.float64
         )
 
         # Define action space (allocation weights per stock)
