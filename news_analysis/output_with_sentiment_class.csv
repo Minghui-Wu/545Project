@@ -1,0 +1,259 @@
+,date,company name,contents,sentiment_score,category
+0,2020-01-31,KEYENCE CORPORATION,Released consolidated financial results for the third quarter of fiscal year ending March 2020 under Japanese GAAP.,0.0,Management
+1,2020-01-29,KEYENCE CORPORATION,"Announced the IV-H Series vision sensor, enhancing stability and functionality of visual inspection.",0.25,New Products
+2,2020-01-14,KEYENCE CORPORATION,Introduced the LJ-X8000 series of 2D/3D laser profilers offering high-resolution inline measurement.,0.0,New Products
+3,2020-01-09,KEYENCE CORPORATION,Launched the VHX7000 digital microscope with 4K CMOS resolution enabling near-SEM quality images.,0.128,New Products
+4,2020-03-06,KEYENCE CORPORATION,"キーエンス財団、新2、3、4年生向け「応援給付金」の応募受付開始 (Keyence Foundation begins accepting applications for support grants for new 2nd, 3rd, and 4th year students)",0.7351,Earnings
+5,2020-03-16,KEYENCE CORPORATION,CV-X ActiveXコントロール Ver.5.2.1.0公開 (CV-X ActiveX Control Ver.5.2.1.0 released),0.0,New Products
+6,2020-03-16,KEYENCE CORPORATION,XG-H1X VisionEditor Ver.2.4.0000公開、XG-H1X VisionTerminal Ver.2.4.0000公開、XG-H1X Simulator+ Ver.2.4.0000公開、XG-Xシリーズファームウェア Ver.2.4.0000公開 (Released multiple software updates),0.0,New Products
+7,2020-04-24,KEYENCE CORPORATION,Notice of Convocation for the 51st Annual General Meeting of Shareholders,0.0,Partnerships
+8,2020-04-24,KEYENCE CORPORATION,"Independent Auditor’s Report for the fiscal year ended March 20, 2020 by Deloitte Touche Tohmatsu",0.0,Earnings
+9,2020-04-19,KEYENCE CORPORATION,Shares approached a year-to-date high driven by solid Q2 results and planned stock split,0.4215,Earnings
+10,2020-04-28,KEYENCE CORPORATION,"FY2019 revenue and profit declined, with no guidance issued for the new fiscal year",0.1779,Earnings
+11,2020-04-24,KEYENCE CORPORATION,Launch of VT5X-10 touch panel box accessory by authorized supplier,0.0,New Products
+12,2020-04-29,KEYENCE CORPORATION,Smartkarma insight: “Weakness in China but the US encourages” analysis,0.0,Management
+13,2020-05-30,KEYENCE CORPORATION,"Weekly Trending Stocks Digest – Adish, Nikkoku, PSS (May 25–29)",0.0,Partnerships
+14,2020-05-28,KEYENCE CORPORATION,"Keyence surges over ¥1,000 to consecutive all-time highs on buybacks",0.0,Management
+15,2020-05-27,KEYENCE CORPORATION,Rating Report: Maintaining Top Rank and Raising Target Price (May 27),0.2023,Management
+16,2020-05-26,KEYENCE CORPORATION,Rating Report: Maintaining Top Rank and Raising Target Price (May 26),0.2023,Management
+17,2020-05-22,KEYENCE CORPORATION,Disclosure: Submission of Independent Director Notification,0.0,Regulatory
+18,2020-05-22,KEYENCE CORPORATION,"Keyence rebounds on China NPC opening, hopes for stimulus measures",0.4215,Management
+19,2020-05-22,KEYENCE CORPORATION,Notice of Convocation of the 51st Annual General Meeting of Shareholders,0.0,Partnerships
+20,2020-05-20,KEYENCE CORPORATION,"Technical: Parabolic Buy/Sell Signals at Close – Buy = 125 stocks, Sell = 78 stocks (May 20)",0.0,Partnerships
+21,2020-05-15,KEYENCE CORPORATION,"Technical: MACD Buy/Sell Signals at Close – Buy = 21 stocks, Sell = 181 stocks (May 15)",0.0,Management
+22,2020-05-15,KEYENCE CORPORATION,"Technical: Parabolic Buy/Sell Signals at Close – Buy = 50 stocks, Sell = 406 stocks (May 15)",0.0,Partnerships
+23,2020-05-12,KEYENCE CORPORATION,Rating Report: Maintaining Top Rank and Raising Target Price (May 12),0.2023,Management
+24,2020-05-01,KEYENCE CORPORATION,"Stocks in Motion Part 2: Fanuc, Recruit Holdings, Koei Chemical, etc.",0.0,Management
+25,2020-05-11,KEYENCE CORPORATION,コロナに負けるな！製造業応援キャンペーン！：2020年5月11日～8月31日、無料でキーエンス製ハンディ端末など貸出,0.0,Partnerships
+26,2020-06-02,KEYENCE CORPORATION,"Keyence Corp. jumped 19% this year to become Japan’s second-largest company by market capitalization, overtaking SoftBank Group and NTT Docomo with valuation over ¥11 trillion.",0.0,Management
+27,2020-06-02,KEYENCE CORPORATION,キーエンスが今年19%上昇し、時価総額でソフトバンクGやNTTドコモを抜いてトヨタ自動車に次いで日本企業で2番目に大きい時価総額を記録。,0.0,Earnings
+28,2020-06-15,KEYENCE CORPORATION,"Keyence Corp. published its Annual Securities Report for the 51st fiscal period (March 21, 2019 – March 20, 2020) on its website.",0.296,Management
+29,2020-07-01,KEYENCE CORPORATION,『クラウド型在庫マネジメントfor KEYENCE」でバーコードを読込、在庫の一元管理が簡単に実現！』 (Campaign release),0.0,New Products
+30,2020-07-14,KEYENCE CORPORATION,"CVD, Dymax & Keyence Collaborate to Accelerate ECMO Development",0.0,Partnerships
+31,2020-07-24,KEYENCE CORPORATION,Tips to Virtually Interview - KEYENCE (Virtual session hosted by KEYENCE Corp. of America),0.0,Management
+32,2020-07-30,KEYENCE CORPORATION,「クラウド型在庫マネジメントfor KEYENCE」で倉庫管理社員を分散しましょう。 (Campaign announcement),0.0,Management
+33,2020-08-03,KEYENCE CORPORATION,Quarterly Securities Report for the first quarter of FY52 filed under Japanese timely disclosure.,0.296,Earnings
+34,2020-08-27,KEYENCE CORPORATION,Virtual session hosted by KEYENCE Corporation of America at Drexel University on technical sales opportunities.,0.3818,Earnings
+35,2020-08-31,KEYENCE CORPORATION,Notice of discontinuation of CV-X100 Series Vision Controllers,0.25,Management
+36,2020-10-09,KEYENCE CORPORATION,A report by Machinery Market detailed Talisman Plastics’ implementation of a Keyence hybrid laser marker to improve production efficiency and mark durability across high-volume plastic components.,0.6597,Partnerships
+37,2020-10-09,KEYENCE CORPORATION,"Talisman Plastics invested in a new Keyence hybrid laser marker to upgrade its part marking operations, leveraging the marker’s hybrid laser technology to achieve faster marking speeds, permanent marks on plastics, and lower consumable costs.",-0.296,New Products
+38,2020-10-10,KEYENCE CORPORATION,"Keyence announced it would report its second quarter FY2021 consolidated financial results on October 30, 2020, covering net sales, operating income, and net profit, and that management would hold a webcast to discuss the quarter’s performance and outlook.",0.4404,Management
+39,2020-10-12,KEYENCE CORPORATION,"Keyence began shipments of the XM Series handheld probe 3D coordinate measuring machine, featuring a lightweight, portable design and high-speed scanning capabilities that enable users to perform precise, on-site dimensional inspections of complex parts without the need for fixtures.",0.0,New Products
+40,2020-10-20,KEYENCE CORPORATION,"Keyence unveiled the MD‑X Series Hybrid Laser Marker, which combines fiber and CO₂ laser technologies in a single compact unit to provide high-speed, high-contrast marking on a wide variety of materials with minimal maintenance requirements.",0.0,New Products
+41,2020-10-30,KEYENCE CORPORATION,"Keyence released its Q2 FY2021 earnings, reporting year-over-year increases in net sales and operating income driven by strong demand in factory automation sensors and measurement systems, and announced an interim dividend reflecting continued profitability.",0.5994,Earnings
+42,2020-11-02,KEYENCE CORPORATION,"Submitted Q2 FY2021 consolidated financial report with sales of JPY238,755 million (+13.8% YoY), operating profit JPY116,772 million (+15.9% YoY), ordinary profit JPY120,245 million (+13.7% YoY), and net profit JPY84,323 million (+14.5% YoY)",0.8271,Earnings
+43,2020-11-13,KEYENCE CORPORATION,Launched and began shipping the IM-8000 series of image dimension measuring instruments featuring a full model change and tripled detection performance,0.128,New Products
+44,2020-11-18,KEYENCE CORPORATION,Blue Tiger Consulting announced a half-price campaign for 'KEYENCE在庫管理 for クラウドERP' to facilitate distributed warehouse management,0.0,Management
+45,2020-12-08,KEYENCE CORPORATION,Japanese shares ended lower for the third straight session with Keyence rising 2.1% amid a pause in U.S. stimulus hopes,0.5719,Management
+46,2020-12-17,KEYENCE CORPORATION,"Japanese shares closed higher as U.S. stimulus talks and a dovish Fed outlook boosted sentiment, with Keyence up 5.3% among Topix core names.",0.5719,Management
+47,2020-12-23,KEYENCE CORPORATION,"Japanese stocks closed higher on pharma and tech gains, with Keyence Corp rising 1.9% among Topix top 30 stocks.",0.4939,Partnerships
+48,2020-12-31,KEYENCE CORPORATION,"Keyence announced its MD-X2000/2500 3-axis hybrid laser marker featuring a built-in distance sensor and dual cameras to enable automatic focusing and alignment, eliminating manual setup.",0.0,New Products
+49,2020-01-07,SONY GROUP CORPORATION,Sony highlights its evolution as a “Creative Entertainment Company with a Solid Foundation of Technology” at CES 2020,0.5267,New Products
+50,2020-01-13,SONY GROUP CORPORATION,Little Women receives six Academy Award nominations including Best Picture,0.8271,Earnings
+51,2020-01-14,SONY GROUP CORPORATION,Marvel’s Morbius release and trailer debut announced,0.0,New Products
+52,2020-01-15,SONY GROUP CORPORATION,"Bad Boys for Life to open nationwide on January 31, 2020",-0.5423,New Products
+53,2020-01-20,SONY GROUP CORPORATION,Sony becomes first Japanese company to make CDP's Climate Change A‑List for five consecutive years,0.0,Management
+54,2020-01-20,SONY GROUP CORPORATION,"Deletion of two medical procedures from the Advanced Medical Technology list effective April 1, 2020",0.6249,New Products
+55,2020-01-21,SONY GROUP CORPORATION,Sony to exhibit new material Triporous™ at ISPO Munich 2020 Sporting and Outdoor Equipment Expo,0.0,New Products
+56,2020-01-23,SONY GROUP CORPORATION,Sony Bank expands housing loan lending limit from ¥100 million to ¥200 million,0.1027,Management
+57,2020-01-24,SONY GROUP CORPORATION,"Innovation Growth Fund, established by Sony and Daiwa Securities Group to support startups, raises additional funding",0.8442,Partnerships
+58,2020-01-27,SONY GROUP CORPORATION,Sony Researcher Wins the Klein‑Vogelbach Prize,0.7906,Earnings
+59,2020-02-03,SONY GROUP CORPORATION,Sony Recognized as a Leader in Water Resource Management by CDP Report,0.0,Management
+60,2020-02-04,SONY GROUP CORPORATION,"Consolidated Financial Results for the Third Quarter Ended December 31, 2019",0.0,Earnings
+61,2020-02-19,SONY GROUP CORPORATION,Sony and Prophesee Develop a Stacked Event-Based Vision Sensor with the Industry’s Smallest Pixels and Highest HDR Performance,0.25,Partnerships
+62,2020-02-20,SONY GROUP CORPORATION,United Nations Office for Project Services and Sony Sign Collaboration Agreement to Pursue Innovation,0.8225,Partnerships
+63,2020-02-24,SONY GROUP CORPORATION,Sony and ZEISS to expand strategic collaboration to Xperia smartphones,0.3182,Partnerships
+64,2020-02-26,SONY GROUP CORPORATION,"Sony Honored as One of ""World's Most Ethical Companies"" in 2020 for the 2nd Consecutive Year",0.8122,Management
+65,2020-03-06,SONY GROUP CORPORATION,"Personnel and organizational reform effective April 1, 2020",0.4767,Management
+66,2020-03-09,SONY GROUP CORPORATION,Opening of Kyoto Research Laboratory for human value research,0.34,Partnerships
+67,2020-03-10,SONY GROUP CORPORATION,Start of Spectee Pro SNS real-time reporting service with AI analytics,0.0,New Products
+68,2020-03-12,SONY GROUP CORPORATION,Launch of fluorescent KIRAVIA Dyes™ for life science reagents,0.0,New Products
+69,2020-03-18,SONY GROUP CORPORATION,Joint development of AI-based usage-linked auto insurance 'GOOD DRIVE',0.5622,New Products
+70,2020-03-19,SONY GROUP CORPORATION,Executive personnel announcement,0.0,Management
+71,2020-03-19,SONY GROUP CORPORATION,Awarded Prime Minister's Award for SOLISS optical communication experiment device,0.7351,New Products
+72,2020-03-24,SONY GROUP CORPORATION,Launch of sign language and written communication service at Customer Center,0.0,New Products
+73,2020-03-24,SONY GROUP CORPORATION,Launch of AI-assisted music production service 'Flow Machines',0.0,New Products
+74,2020-03-26,SONY GROUP CORPORATION,Selection of Board Member Candidates for upcoming shareholders' meeting,0.0,Management
+75,2020-03-26,SONY GROUP CORPORATION,"Sony Electronics Corporation to be established effective April 1, 2020",0.4767,Management
+76,2020-03-27,SONY GROUP CORPORATION,Statement Regarding the Impact of the Spread of the Novel Coronavirus,0.3182,Regulatory
+77,2020-03-30,SONY GROUP CORPORATION,New service 'English online banking' launched for foreign residents,0.128,New Products
+78,2020-04-02,SONY GROUP CORPORATION,Sony Establishes $100 Million COVID-19 Global Relief Fund,0.4767,Partnerships
+79,2020-04-09,SONY GROUP CORPORATION,Sony Corporation Announces Investment in the Chinese Entertainment Platform Bilibili Inc.,0.4215,Partnerships
+80,2020-05-08,SONY GROUP CORPORATION,Support Measures for Frontline Healthcare Professionals in Response to COVID-19,0.4019,Partnerships
+81,2020-05-11,SONY GROUP CORPORATION,Sony AI and avatarin Reach Basic Agreement to Cooperate on Development for Next Gen Remote Control Robots,0.5106,Partnerships
+82,2020-05-12,SONY GROUP CORPORATION,Sony to Release SWIR Image Sensors for Industrial Equipment,0.0,New Products
+83,2020-05-14,SONY GROUP CORPORATION,Sony to Release World's First Intelligent Vision Sensors with AI Processing Functionality,0.6124,New Products
+84,2020-05-19,SONY GROUP CORPORATION,Sony Corporation Executive Appointments,0.0,Management
+85,2020-05-19,SONY GROUP CORPORATION,Announcement of New Sony Group Organizational Structure,0.0,Management
+86,2020-05-19,SONY GROUP CORPORATION,Sony Corporate Strategy Meeting FY2020,0.0,Management
+87,2020-05-19,SONY GROUP CORPORATION,Sony Semiconductor Solutions and Microsoft partner to create smart camera solutions for enterprise customers,0.7351,Partnerships
+88,2020-05-22,SONY GROUP CORPORATION,『ストーリー・オブ・マイライフ／わたしの若草物語』6月12日（金）劇場公開決定！,0.0,Partnerships
+89,2020-06-01,SONY GROUP CORPORATION,ソニー株式会社　人事,0.0,Partnerships
+90,2020-06-01,SONY GROUP CORPORATION,劇場拡大公開『ストーリー・オブ・マイライフ／わたしの若草物語』を全国340館で,0.0,Partnerships
+91,2020-06-09,SONY GROUP CORPORATION,「Sony World Photography Awards 2020」受賞作品を発表,0.4588,Partnerships
+92,2020-06-11,SONY GROUP CORPORATION,ソニー・グローバルエデュケーションとZ会 新たな小学生向け通信教育講座を共同開発,0.0,Partnerships
+93,2020-06-15,SONY GROUP CORPORATION,『Baby Driver』がT・ジョイ横浜ドルビーシネマで国内初上映決定,0.0,New Products
+94,2020-06-19,SONY GROUP CORPORATION,映画『山猫は眠らない8 暗殺者の終幕』8月14日公開決定,0.0,Earnings
+95,2020-06-24,SONY GROUP CORPORATION,Support Measures for Industry Creators including Cinematographers and Photographers,0.4019,Partnerships
+96,2020-06-25,SONY GROUP CORPORATION,ソニー・ピクチャーズとカンテレ 共同制作ドラマ『銀座黒猫物語』世界展開決定,0.0,Partnerships
+97,2020-06-26,SONY GROUP CORPORATION,Sony Corporation Board Member Appointments,0.0,Management
+98,2020-06-29,SONY GROUP CORPORATION,「ソニーコーポレートサービス株式会社」の社名変更のお知らせ,0.0,Partnerships
+99,2020-06-30,SONY GROUP CORPORATION,Establishment and Launch of Sony Research India Private Limited,-0.2263,New Products
+100,2020-07-01,SONY GROUP CORPORATION,General sale begins for wearable thermodevice 'REON POCKET',0.0,New Products
+101,2020-07-01,SONY GROUP CORPORATION,14th 'Scientific Spirit' Photo Contest by Sony Education Foundation,0.1779,Partnerships
+102,2020-07-01,SONY GROUP CORPORATION,New film division structure announced at Sony Pictures Entertainment,0.4215,New Products
+103,2020-07-01,SONY GROUP CORPORATION,Sony Corporation executive personnel announcement,0.0,Management
+104,2020-07-02,SONY GROUP CORPORATION,Launch of AI-based contact center service by Sony CSL and BellSystem24,0.0,New Products
+105,2020-07-03,SONY GROUP CORPORATION,Sony Pictures Entertainment announces 'Black and Blue' Japanese release,0.4215,New Products
+106,2020-07-03,SONY GROUP CORPORATION,Sony Pictures Entertainment announces film 'Otona no Jijō Smartphone o nozoi tara' release,0.1531,New Products
+107,2020-07-08,SONY GROUP CORPORATION,Release of FE 12‑24 mm F2.8 GM ultra wide‑angle G Master™ lens,0.0,New Products
+108,2020-07-09,SONY GROUP CORPORATION,"Sony Global Education support fund aid for education in Japan, China, and USA",0.4019,Partnerships
+109,2020-07-10,SONY GROUP CORPORATION,"Sony invests $250 M in Epic Games, acquiring minority stake",0.0,Management
+110,2020-07-13,SONY GROUP CORPORATION,Update on the Sony Global Support Fund for COVID-19,0.4019,Partnerships
+111,2020-07-14,SONY GROUP CORPORATION,Launch of AI-based Image Enhancement System by Sony Business Solutions,0.1779,New Products
+112,2020-07-15,SONY GROUP CORPORATION,Expansion of Sony Research Award Program to Europe,0.5423,Earnings
+113,2020-07-16,SONY GROUP CORPORATION,Emergency support for victims of the July 2020 heavy rain,-0.296,Management
+114,2020-07-20,SONY GROUP CORPORATION,"Collaboration with Toppan Printing, Kyocera, Tier IV, and University of Tokyo for Human Augmentation social course",0.0,Partnerships
+115,2020-07-22,SONY GROUP CORPORATION,Launch of CurioStep with Sony educational program for children’s curiosity,0.0,Partnerships
+116,2020-07-27,SONY GROUP CORPORATION,Establishment of SSN Facilities for semiconductor production site management,0.0,Management
+117,2020-07-28,SONY GROUP CORPORATION,Proof-of-concept Hawk-Eye play analysis service trial with Tokyo Yakult Swallows,0.34,New Products
+118,2020-07-29,SONY GROUP CORPORATION,Ikimono Gakari Volumetric LIVE event powered by volumetric capture technology,0.0,Partnerships
+119,2020-07-29,SONY GROUP CORPORATION,Launch of CFexpress Type A memory card,0.0,New Products
+120,2020-07-29,SONY GROUP CORPORATION,Release of full-frame mirrorless camera Alpha 7S III,0.0,New Products
+121,2020-07-30,SONY GROUP CORPORATION,Sony Computer Science Laboratory launches Music Excellence Project,0.6249,New Products
+122,2020-07-30,SONY GROUP CORPORATION,Neural Network Console Cloud version distributed learning environment launched,0.128,New Products
+123,2020-07-31,SONY GROUP CORPORATION,Launch of Sony Talent League by THU to discover new digital entertainment talent,0.8126,New Products
+124,2020-07-31,SONY GROUP CORPORATION,Personnel and organizational reform at Sony Global Manufacturing & Operations,0.0,Management
+125,2020-08-04,SONY GROUP CORPORATION,"Consolidated Financial Results for the First Quarter Ended June 30, 2020",0.0,Earnings
+126,2020-08-12,SONY GROUP CORPORATION,"Sony Global Education and Raspberry Pi Announce Partnership, collaborating to develop and spread STEAM and computer science education programs",0.0,Partnerships
+127,2020-08-19,SONY GROUP CORPORATION,"Sony to Release High-Precision GNSS Receiver LSIs for IoT and Wearable Devices, delivering the industry’s lowest power consumption for dual-band positioning operation",-0.3818,New Products
+128,2020-08-28,SONY GROUP CORPORATION,Sony Publishes Corporate Report 2020,0.0,Management
+129,2020-09-01,SONY GROUP CORPORATION,Sony Delivers World’s First Second-Level Cycle Mobile Base Station Control Using Dynamic Spectrum Access Technology*1,0.3818,New Products
+130,2020-09-07,SONY GROUP CORPORATION,"Sony Unveils Redesigned BRAVIA 4K HDR BZ40H Series New 55 to 85inch BRAVIA models combine flexibility, connectivity and ease of use along with superior picture quality, capability and performance",0.8126,New Products
+131,2020-09-10,SONY GROUP CORPORATION,"Sony Establishes ""Green Management 2025"" Group Environmental Medium-Term Targets to eliminate plastic packaging from newly-designed small products by fiscal 2025",0.0,Management
+132,2020-09-10,SONY GROUP CORPORATION,Sony Establishes “Sony Innovation Fund: Environment” to Nurture Ventures Specializing in Environmental Technology,0.6124,Partnerships
+133,2020-09-14,SONY GROUP CORPORATION,Introducing Sony’s Cinema Line: Expanding the camera line-up for content creators with the technology cultivated for digital cinema production,0.0,New Products
+134,2020-09-14,SONY GROUP CORPORATION,"Sony’s solutions facilitate remote, virtual and distributed productions in all types of broadcast applications",0.1779,Partnerships
+135,2020-09-14,SONY GROUP CORPORATION,"Sony upgrades its remote camera range to support Free-D protocol, opening up new creative possibilities",0.6808,New Products
+136,2020-09-17,SONY GROUP CORPORATION,ニューヨーク証券取引所上場から50年 / Sony celebrates 50 years on the New York Stock Exchange,0.5719,Partnerships
+137,2020-09-30,SONY GROUP CORPORATION,Sony Acquires Nevion to Enhance its Portfolio of End-to-End IP/Cloud-based Production Solutions for Broadcasting and other Applications,0.1779,New Products
+138,2020-09-30,SONY GROUP CORPORATION,Nevion AS（ネヴィオン社）を子会社化 / Sony acquires Nevion AS to reinforce IP/Cloud media production solutions,0.1779,Partnerships
+139,2020-10-01,SONY GROUP CORPORATION,SuicaとAmazon Alexaに対応した新型スマートウォッチ『wena 3』を発売,0.0,New Products
+140,2020-10-08,SONY GROUP CORPORATION,国立大学法人 東京大学が発行するソーシャルボンド「東京大学FSI債」への投資について,0.0,Management
+141,2020-10-14,SONY GROUP CORPORATION,横浜マリノス株式会社とパートナーシップに向けた意向確認書を締結,0.0,Partnerships
+142,2020-10-14,SONY GROUP CORPORATION,ソニー・グローバルエデュケーションと栄光 インタラクティブオンライン授業システムの協業を開始,0.0,Partnerships
+143,2020-10-16,SONY GROUP CORPORATION,圧倒的な実在感 裸眼で楽しむ3D映像 空間再現ディスプレイ『ELF-SR1』発売,0.0,New Products
+144,2020-10-19,SONY GROUP CORPORATION,新型コロナウイルス感染症の影響を受けているクリエイターたちを支援する映画製作プロジェクト『DIVOC-12』が始動,0.0,New Products
+145,2020-10-28,SONY GROUP CORPORATION,"Consolidated Financial Results for the Second Quarter Ended September 30, 2020",0.0,Earnings
+146,2020-10-29,SONY GROUP CORPORATION,CONSULTING PLAZA でのオンライン相談 全国対応開始のお知らせ（PDF）,0.0,Partnerships
+147,2020-10-29,SONY GROUP CORPORATION,新型コロナウイルスで影響を受けている子どもたちへの教育支援を拡大,0.0,Regulatory
+148,2020-10-29,SONY GROUP CORPORATION,遠藤俊英氏を、シニアアドバイザーとして招聘,0.0,Partnerships
+149,2020-11-05,SONY GROUP CORPORATION,Sony Music Foundation receives Excellence Award at 2020 Mecenat Awards,0.891,Earnings
+150,2020-11-09,SONY GROUP CORPORATION,Initiation of Sony drone project,0.0,New Products
+151,2020-11-10,SONY GROUP CORPORATION,Announcement of resident recruitment for Sonare Suginami Kamiigusa nursing home,0.0,Partnerships
+152,2020-11-10,SONY GROUP CORPORATION,Launch of 'CREATE by KOOV®' online programming learning service,0.4278,New Products
+153,2020-11-10,SONY GROUP CORPORATION,Provision of player invitation slots to JGTO for the 2021 Sony Open in Hawaii,0.0,Management
+154,2020-11-12,SONY GROUP CORPORATION,Delivery of AI-based automatic TV subtitle generation system 'Mojipa Speech Recognition Text System' to TBS,0.0,New Products
+155,2020-11-16,SONY GROUP CORPORATION,Successful proof-of-concept demonstration of remote program production using cloud relay system and 5G network,0.6369,Partnerships
+156,2020-11-17,SONY GROUP CORPORATION,Ginza Sony Park to open three new stores on Nov 28 with unique menus and concepts,0.0,Management
+157,2020-11-17,SONY GROUP CORPORATION,Personnel and organizational restructuring at Sony Semiconductor Solutions Corporation,0.1779,Management
+158,2020-11-17,SONY GROUP CORPORATION,Sony Group organizational and personnel changes transitioning Electronics Products & Solutions to new management structure,0.1779,Management
+159,2020-11-18,SONY GROUP CORPORATION,Launch of Ci Media Cloud Services for efficient media management leveraging cloud,0.4215,New Products
+160,2020-11-18,SONY GROUP CORPORATION,Release of compact Cinema Line video camera 'FX6' with full-frame image sensor,0.0,New Products
+161,2020-11-18,SONY GROUP CORPORATION,Decision to donate solar power facilities 'Sorabea Power Plant' to nursery schools in Oita and Yamagata Prefectures,0.0,Partnerships
+162,2020-11-19,SONY GROUP CORPORATION,"Call for participants for 'Entame no Bukatsu 2021', a program for students to co-create an Ikimonogakari 'SAKURA' music video using AI",-0.296,Partnerships
+163,2020-11-20,SONY GROUP CORPORATION,Notice of executive personnel changes at Sony Pictures Entertainment,0.4215,Management
+164,2020-11-27,SONY GROUP CORPORATION,Launch of aibo collaboration application service enabling programming sharing and IoT integration,0.4215,New Products
+165,2020-12-01,SONY GROUP CORPORATION,Merger integration of Sony Business Solutions and Sony Marketing,0.1779,Management
+166,2020-12-01,SONY GROUP CORPORATION,Released microgrid core module software as open source,0.0,New Products
+167,2020-12-02,SONY GROUP CORPORATION,Postponement of 'Peter Rabbit 2: The Runaway' release,0.0,Management
+168,2020-12-08,SONY GROUP CORPORATION,Started remote 'post-contract procedures' service,0.0,Management
+169,2020-12-10,SONY GROUP CORPORATION,"Announced acquisition of Ellation Holdings, Inc. (Crunchyroll operator)",0.0,Management
+170,2020-12-10,SONY GROUP CORPORATION,Announced details for 2021 Sony Open in Hawaii,0.0,Partnerships
+171,2020-12-10,SONY GROUP CORPORATION,Launched 'amue link' monitoring service connecting device and app,0.128,New Products
+172,2020-12-14,SONY GROUP CORPORATION,Received highest rating in CDP Water Resource Management survey,0.0,Management
+173,2020-12-14,SONY GROUP CORPORATION,Initiated COMPASS Project for open innovation in healthcare,0.3818,Partnerships
+174,2020-12-15,SONY GROUP CORPORATION,Launched the Gastronomy Flagship Project,0.2263,New Products
+175,2020-12-16,SONY GROUP CORPORATION,Remote consultation trial using Sony telepresence system,0.0,Partnerships
+176,2020-12-16,SONY GROUP CORPORATION,Corporate name changed to S.RIDE Corporation,0.0,Regulatory
+177,2020-12-23,SONY GROUP CORPORATION,Joined The Valuable 500 initiative promoting empowerment of people with disabilities,0.6808,Partnerships
+178,2020-09-01,TOYOTA MOTOR CORPORATION,"""Open Source Communities"" by BellTower wins Grand Prix in LEXUS DESIGN AWARD 2020.",0.8986,New Products
+179,2020-09-04,TOYOTA MOTOR CORPORATION,Celebrating launch of all-new GR Yaris in Japan with virtual event (GR YARIS ONLINE FES).,0.5719,New Products
+180,2020-09-08,TOYOTA MOTOR CORPORATION,"Launch of Toyota Used Vehicle Online Store in Japan, enabling online purchase from quotation to contracting.",0.0,Partnerships
+181,2020-09-10,TOYOTA MOTOR CORPORATION,"TRI‑AD to form Woven Capital, an $800 million global investment fund.",0.0,Regulatory
+182,2020-09-16,TOYOTA MOTOR CORPORATION,"Toyota, Dentsu Group and Delphys announce new companies for marketing and mobility businesses effective January 2021.",0.4767,New Products
+183,2020-09-17,TOYOTA MOTOR CORPORATION,TRI‑AD Office wins 'Creative Office Award' at 33rd Nikkei New Office Awards.,0.9201,New Products
+184,2020-09-17,TOYOTA MOTOR CORPORATION,Denyo and Toyota jointly develop fuel cell power supply vehicle,0.0,Partnerships
+185,2020-09-22,TOYOTA MOTOR CORPORATION,Appointment of Tommi Mäkinen as Motorsport Advisor starting January 2021.,0.0,Partnerships
+186,2020-09-29,TOYOTA MOTOR CORPORATION,Toyota's annual global sales of electrified vehicles could reach 5.5 million by 2025―exec at industry conference.,0.0258,Earnings
+187,2020-09-29,TOYOTA MOTOR CORPORATION,Toyota's global sales in August recover to approximately 90 percent year‑on‑year.,0.0,Management
+188,2020-12-03,TOYOTA MOTOR CORPORATION,"TMC Announces Changes to Executive Structure, Senior Professional/Senior Management Employees, and Organizational Structure. Toyota announced changes to its executive and organizational structures, effective January 1, 2021, to respond to external environment changes and strengthen management flexibility.",0.7783,Management
+189,2020-12-09,TOYOTA MOTOR CORPORATION,"Toyota Launches the New Mirai. Toyota launched the completely redesigned Mirai fuel cell electric vehicle (FCEV), emphasizing premium styling, expanded cruising range, and advanced hydrogen-based technology.",0.3612,New Products
+190,2020-12-11,TOYOTA MOTOR CORPORATION,"Toyota Moves Closer to Production with Next Generation Fuel Cell Electric Technology for Zero-Emissions Heavy Duty Trucks. Toyota unveiled production-intent prototype Class 8 heavy-duty fuel cell electric trucks, showcasing a new compact hydrogen storage and powertrain system with over 300 miles of range.",0.0,New Products
+191,2020-12-10,TOYOTA MOTOR CORPORATION,"Toyota Motor North America Announces Executive Changes. TMNA announced several executive appointments and promotions, effective January 4, 2021, to strengthen its production engineering, marketing, and R&D leadership in North America.",0.6597,Management
+192,2020-12-14,TOYOTA MOTOR CORPORATION,"TMC Decides to Repurchase and Cancel First Series Model AA Class Shares. Toyota decided to repurchase and cancel all outstanding First Series Model AA Class Shares, reinforcing mid‑to‑long‑term funding for cutting‑edge R&D initiatives.",0.6597,Management
+193,2020-12-15,TOYOTA MOTOR CORPORATION,"Every Step Counts – Toyota Releases its 2020 North American Environmental Report. Toyota released its 2020 North American environmental report, highlighting a 9% reduction in GHG emissions, expanded electrified product launches, and water stewardship efforts.",0.0,Management
+194,2020-12-18,TOYOTA MOTOR CORPORATION,"Safety Recall 20TA02 Amended to Add Approximately 8,000 Vehicles. Toyota amended its fuel pump safety recall to include approximately 8,000 additional vehicles equipped with low‑pressure fuel pumps that may stall, potentially increasing crash risk.",-0.0,Management
+195,2020-12-25,TOYOTA MOTOR CORPORATION,"Toyota Launches ""C+pod"" Ultra-Compact Battery Electric Vehicle in Japan. Toyota launched the ""C+pod"" BEV, a two-seater ultra‑compact vehicle designed for corporate and urban mobility, with limited launch to select partners.",-0.1027,New Products
+196,2020-12-25,TOYOTA MOTOR CORPORATION,"COVID-19 cases at Toyota facilities (disclosed Mar–Dec 2020). Toyota disclosed multiple COVID-19 cases among employees at various facilities in Japan, confirming no impact on production operations.",-0.296,Management
+197,2020-10-05,TOYOTA MOTOR CORPORATION,Toyota to develop fuel-cell electric truck for North America market,0.0,New Products
+198,2020-10-06,TOYOTA MOTOR CORPORATION,"JR East, Hitachi and Toyota to Develop Hybrid (Fuel Cell) Railway Vehicles",0.0,Partnerships
+199,2020-10-06,TOYOTA MOTOR CORPORATION,Toyota and Panasonic venture to build lithium-ion batteries for hybrids in Japan by 2022,0.0,Partnerships
+200,2020-10-14,TOYOTA MOTOR CORPORATION,Launch of a preparatory committee for 'Japan Hydrogen Association (JH2A)',0.0,Management
+201,2020-10-30,TOYOTA MOTOR CORPORATION,Toyota to invest ¥52.2 billion ($500 million) in KDDI to deepen ties for 'connected car',0.0,Partnerships
+202,2020-10-30,TOYOTA MOTOR CORPORATION,Agreement on New Business and Capital Alliance between Toyota Motor Corporation and KDDI Corporation,0.4939,Partnerships
+203,2020-10-20,TOYOTA MOTOR CORPORATION,Toyota AI Ventures invests in YPC Technologies through 2020 'call for innovation',0.3818,Partnerships
+204,2020-11-02,TOYOTA MOTOR CORPORATION,"SPARX Group, Toyota Motor Corporation, Sumitomo Mitsui Banking Corporation, MUFG Bank, and Mizuho Bank signed an MOU to establish a new fund investing in Japanese monozukuri (manufacturing).",0.0,Partnerships
+205,2020-11-06,TOYOTA MOTOR CORPORATION,"Toyota Motor Corp more than doubled its full-year operating profit forecast, expecting an operating profit of 1.3 trillion yen for the fiscal year through March 2021 amid a rebound in China sales.",0.7003,Earnings
+206,2020-11-20,TOYOTA MOTOR CORPORATION,The Japanese government selected Toyota among more than 140 companies to receive part of a $2.4 billion subsidy package for repatriating manufacturing to Japan.,0.0,Management
+207,2020-01-07,TOYOTA MOTOR CORPORATION,"Toyota to Build Prototype City of the Future announced at CES 2020, planning a 175-acre prototype city at the base of Mt. Fuji to advance CASE mobility solutions.",0.1779,Partnerships
+208,2020-01-10,TOYOTA MOTOR CORPORATION,"Toyota premiered the new GR Yaris at the Tokyo Auto Salon, opening online pre-orders for special editions of the homologation model.",0.4019,New Products
+209,2020-01-16,TOYOTA MOTOR CORPORATION,Toyota and Joby Aviation announced a $394 million Series C investment and collaboration to develop eVTOL aircraft for future urban air mobility.,0.0,Partnerships
+210,2020-01-17,TOYOTA MOTOR CORPORATION,"Toyota GAZOO Racing outlined its 2020 Yaris WRC lineup for Rallye Monte-Carlo, featuring drivers Ogier, Evans, and Rovanperä.",0.0,Partnerships
+211,2020-01-18,TOYOTA MOTOR CORPORATION,"Toyota Indiana completed a $1.3 billion modernization project, adding 550 new jobs and aligning production with common architectures for North America.",0.0,Management
+212,2020-01-29,TOYOTA MOTOR CORPORATION,"Toyota provided aid for COVID‑19 response measures in China, offering medical vehicles and donations to support healthcare professionals.",0.4019,Partnerships
+213,2020-02-05,TOYOTA MOTOR CORPORATION,Toyota Motor Corp's production plants in China will remain closed through Feb. 9 in line with local transport lockdowns due to the coronavirus outbreak.,0.0,Management
+214,2020-02-06,TOYOTA MOTOR CORPORATION,"Toyota Motor Corp raised its annual operating profit forecast by 4.2% to ¥2.5 trillion for the year to March 2020, citing a slightly weaker yen.",0.0754,Earnings
+215,2020-02-07,TOYOTA MOTOR CORPORATION,"Toyota GAZOO Racing outlined its 2020 global motorsports activities—including rally, endurance, and touring car programs—positioning racing as a foundation for vehicle development.",0.0,New Products
+216,2020-02-07,TOYOTA MOTOR CORPORATION,"Toyota Motor Corp said production at all its China plants would remain suspended through Feb. 16, extending the shutdown amid coronavirus supply chain disruptions.",-0.6705,Management
+217,2020-02-14,TOYOTA MOTOR CORPORATION,"Toyota Financial Services issued a $750 million unsecured Green Bond in Plano, Texas, reinforcing its commitment to environmentally sustainable financing.",0.0,Partnerships
+218,2020-02-18,TOYOTA MOTOR CORPORATION,"Toyota launched all-wheel drive variants of the Camry and Avalon in the U.S., featuring the first AWD Camry since 1991 and first-ever AWD Avalon with Dynamic Torque Control AWD.",0.4767,New Products
+219,2020-03-02,TOYOTA MOTOR CORPORATION,Toyota Motor Corp suspended production at its St. Petersburg plant from March 6 and halted vehicle imports into Russia indefinitely due to supply chain disruptions.,-0.6705,Management
+220,2020-03-22,TOYOTA MOTOR CORPORATION,"Toyota confirmed a second COVID‑19 infection at its Takaoka Plant in Toyota City, closing the affected line for three days to disinfect and isolating 33 team members as a precaution.",-0.1531,Management
+221,2020-03-23,TOYOTA MOTOR CORPORATION,Toyota announced halting operations on seven production lines across five Japanese plants from April 3 to address declining demand amid the pandemic.,-0.128,Management
+222,2020-03-24,TOYOTA MOTOR CORPORATION,Toyota and Nippon Telegraph and Telephone (NTT) entered into a business and capital memorandum of understanding to collaborate on next‑generation mobility services.,0.0,Partnerships
+223,2020-03-29,TOYOTA MOTOR CORPORATION,Toyota extended the suspension of all its European factories (except Russia) until April 20 at earliest due to the spread of COVID‑19.,0.0,Management
+224,2020-04-02,TOYOTA MOTOR CORPORATION,"BYD and Toyota complete registration of joint venture company BYD TOYOTA EV TECHNOLOGY Co., Ltd. for BEV R&D, operations to commence May 2020.",0.0,Partnerships
+225,2020-04-03,TOYOTA MOTOR CORPORATION,"Toyota Green Energy established to conduct renewable energy power generation business in Nagoya City, Aichi Prefecture.",0.4939,Earnings
+226,2020-04-04,TOYOTA MOTOR CORPORATION,Statement on a reported COVID‑19 infection at Toyota’s Motomachi Plant work site in Toyota City.,0.0,Management
+227,2020-04-07,TOYOTA MOTOR CORPORATION,Toyota Group announces support measures for frontline medical sector and medical products amid COVID‑19.,0.4019,Partnerships
+228,2020-04-10,TOYOTA MOTOR CORPORATION,"Japan’s four automobile manufacturers associations issue a joint message in response to COVID‑19, coordinated by Toyota.",0.0,Partnerships
+229,2020-04-13,TOYOTA MOTOR CORPORATION,"Toyota to unveil the all‑new Model Harrier in Japan, planned for June 2020 release.",0.0,New Products
+230,2020-04-20,TOYOTA MOTOR CORPORATION,Adjustments to domestic production updated for April: halting operations on select days due to COVID‑19 impact.,0.0,Management
+231,2020-04-23,TOYOTA MOTOR CORPORATION,"Toyota’s Yaris Cross makes its world debut, revealed digitally after Geneva Motor Show cancellation.",0.0,New Products
+232,2020-04-27,TOYOTA MOTOR CORPORATION,Toyota and FAW restructure joint company management systems to pursue sustainable growth in China.,0.3818,Management
+233,2020-05-08,TOYOTA MOTOR CORPORATION,Toyota Mobility Foundation expands connected and sanitized mobility services to healthcare workers in the Philippines in support of the fight against COVID-19.,0.128,Partnerships
+234,2020-05-11,TOYOTA MOTOR CORPORATION,"Toyota Motor North America donates four Toyota Sienna vehicles and funds to nonprofits in Washtenaw County, Michigan, to support critical mobility needs amid the COVID-19 pandemic.",0.1027,Partnerships
+235,2020-05-12,TOYOTA MOTOR CORPORATION,"Toyota expects operating profit to drop 80% for fiscal year ending March 31, 2020, as the coronavirus pandemic saps global vehicle demand.",0.0772,Management
+236,2020-05-12,TOYOTA MOTOR CORPORATION,TMC's Year-end Financial Results Press Conference video presentation of FY2020 results by President Akio Toyoda.,0.0,Management
+237,2020-05-12,TOYOTA MOTOR CORPORATION,"TMC Announces Financial Results for fiscal year ended March 31, 2020, including consolidated vehicle sales, revenues, operating income, and net income.",0.0,Management
+238,2020-05-12,TOYOTA MOTOR CORPORATION,"Notice Concerning Distribution of Dividends from Surplus for the fiscal year ended March 31, 2020.",0.0,Regulatory
+239,2020-05-12,TOYOTA MOTOR CORPORATION,"Holding of Ordinary General Shareholders' Meeting for fiscal year ended March 31, 2020.",0.0,Management
+240,2020-05-12,TOYOTA MOTOR CORPORATION,Publication of Earnings Release Presentation for the FY2020 financial results.,0.0,Earnings
+241,2020-05-15,TOYOTA MOTOR CORPORATION,"Adjustments to Domestic Production in June 2020 announced, including halting operations on specified days and reducing shifts due to COVID-19 impact.",0.0,Management
+242,2020-05-29,TOYOTA MOTOR CORPORATION,"Announcement of organizational, senior management, and personnel changes effective June 1, 2020.",0.4767,Management
+243,2020-06-01,TOYOTA MOTOR CORPORATION,"LEXUS previews the New IS world premiere online at 8:00 am JST on June 10, showcasing the new compact FR sport sedan in a digital event.",0.0,New Products
+244,2020-06-12,TOYOTA MOTOR CORPORATION,"Lexus to reveal the new IS online at 8:00 am JST on June 16, with a virtual press conference streamed globally.",0.0,New Products
+245,2020-06-16,TOYOTA MOTOR CORPORATION,Toyota to make its Total Human Model for Safety (THUMS) software freely available from January 2021 to enhance vehicle-safety research.,0.6908,Management
+246,2020-06-30,TOYOTA MOTOR CORPORATION,"TMC announces changes to its executive structure and senior management responsibilities, effective July 1, 2020.",0.4767,Management
+247,2020-07-01,TOYOTA MOTOR CORPORATION,Toyota launches new Acceleration Suppression System to reduce accidents caused by pedal misapplication in Japan.,-0.3182,New Products
+248,2020-07-06,TOYOTA MOTOR CORPORATION,Toyota reproduces and sells spare parts for the 2000GT as part of the GR Heritage Parts Project.,0.0,Management
+249,2020-07-09,TOYOTA MOTOR CORPORATION,"Toyota unveils the Corolla Cross compact SUV in Thailand, marking its global premiere.",0.0,New Products
+250,2020-07-17,TOYOTA MOTOR CORPORATION,Toyota provides aid to areas hit by record-breaking torrential rains and floods in Japan.,0.0,Partnerships
+251,2020-07-21,TOYOTA MOTOR CORPORATION,Toyota announces adjustments to domestic production in August 2020 due to recovery trends in vehicle demand.,-0.128,Management
+252,2020-07-28,TOYOTA MOTOR CORPORATION,Toyota Research Institute - Advanced Development (TRI-AD) to form Woven Planet Holdings and two new operating companies.,0.25,Partnerships
+253,2020-07-28,TOYOTA MOTOR CORPORATION,Statement on a reported COVID-19 infection at Toyota’s Tokyo headquarters work site.,0.0,Management
+254,2020-07-31,TOYOTA MOTOR CORPORATION,"TMC announces organizational, senior management, and personnel changes effective August 1, 2020.",0.4767,Management
+255,2020-07-31,TOYOTA MOTOR CORPORATION,BluE Nexus and Toyota collaborate to strengthen sales structure for electrified systems.,0.3182,Partnerships
+256,2020-07-21,TOYOTA MOTOR CORPORATION,Toyota to make 2% fewer vehicles globally in August than planned as production recovers from pandemic slump.,0.0,Management
+257,2020-08-06,TOYOTA MOTOR CORPORATION,Toyota Motor Corp eked out its smallest quarterly profit in nine years as the coronavirus pandemic halved its car sales and nearly wiped out its bottom line.,0.4404,Earnings
